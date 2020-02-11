@@ -32,7 +32,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9d38753f2f8840102905f3ecf699b6f6</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>NeedIt show or hide Other field</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -40,7 +40,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ui_policy_9d38753f2f8840102905f3ecf699b6f6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-26 00:47:11</sys_updated_on>
+        <sys_updated_on>2020-02-11 15:01:43</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <ui_type>0</ui_type>
         <view/>
